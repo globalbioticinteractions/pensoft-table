@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "en"
+    }
+  ],
+  "rdfs:comment": [
+    "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"
+  ],
+  "tables": [
+    {
+      "tableSchema": "schema.json",
+      "url": "https://bdj.pensoft.net/article/49535/download/csv/5467522/",
+      "doi": "10.3897/BDJ.8.e49535",
+      "dcterms:bibliographicCitation": "De Rojas M, Doña J, Dimov I (2020) A comprehensive survey of Rhinonyssid mites (Mesostigmata: Rhinonyssidae) in Northwest Russia: New mite-host associations and prevalence data. Biodiversity Data Journal 8: e49535. https://doi.org/10.3897/BDJ.8.e49535", 
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002453",
+      "interactionTypeName": "host of",
+      "delimiter": ";",
+      "headerRowCount": 1,
+      "null": [
+        "NA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "sourceTaxonName",
+      "titles": "Bird taxa",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonName",
+      "titles": "Mite species",
+      "datatype": "string"
+    },
+    {
+      "name": "N",
+      "titles": "N",
+      "datatype": "string"
+    },
+    {
+      "name": "Ni",
+      "titles": "Ni",
+      "datatype": "string"
+    },
+    {
+      "name": "I",
+      "titles": "I",
+      "datatype": "string"
+    },
+    {
+      "name": "Region (previous records)",
+      "titles": "Region (previous records)",
+      "datatype": "string"
+    },
+    {
+      "name": "localityName",
+      "titles": "Locality (this study)",
+      "datatype": "string"
+    },
+    {
+      "name": "Previous records",
+      "titles": "Previous records",
+      "datatype": "string"
+    }
+  ]
+}
